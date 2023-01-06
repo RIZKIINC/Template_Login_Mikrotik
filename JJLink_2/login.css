@@ -103,7 +103,7 @@ top:10px;
 #boton{
     position: relative;
     top: 20px;
-	-webkit-appearance:none;
+	/* -webkit-appearance:none; */
     /* color:#fff; */
 	background:#EAFDFC; 
     /* background-image:url(ic_arrow_forward_white_24dp_2x.png); */
@@ -116,23 +116,27 @@ top:10px;
     height:30px;
     width:100px;
     font-size:12px;
-    font-weight:400;
-    outline:0;
+    /* font-weight:400; */
+    /* outline:0; */
     text-transform:uppercase;
     letter-spacing:1.5px;
     cursor:pointer;
-    }
+}
 #boton:hover{
-	background-color:#86E5FF;-webkit-transition:all 0.3s ease;-moz-transition:all 0.3s ease;-o-transition:all 0.3s ease;transition:all 0.3s ease
-	}
-    .vertical-form .footer{
-        position: relative;
-        top:100px;
-        text-align:center;
-        color:#fff;}
-    .vertical-form .footer a{
-        text-decoration:none;
-        color:#fff;}
-    @media (max-width:450px){
+	background-color:#86E5FF;
+    -webkit-transition:all 0.3s ease;
+    -moz-transition:all 0.3s ease;
+    -o-transition:all 0.3s ease;
+    transition:all 0.3s ease
+}
+.vertical-form .footer{
+    position: relative;
+    top:100px;
+    text-align:center;
+    color:#fff;}
+.vertical-form .footer a{
+    text-decoration:none;
+    color:#fff;}
+@media (max-width:450px){
 
-       }
+}
