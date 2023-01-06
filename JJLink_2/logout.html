@@ -30,7 +30,7 @@
 		</table>
 		<br>
 		<form action="$(link-login)" name="login" onSubmit="return openLogin()">
-		<input type="submit" value="log in">
+		<input class="login" type="submit" value="log in">
 		</form>
 		</td>
 		</table>
@@ -48,20 +48,27 @@
 		padding: 2px;
 		margin: 1px;
 		font-size: 14px;
-		color: #808080;
+		color: #000000;
+	}
+	.login{
+		background-color: #FDFBFB;
+		border-radius: 5px;
+	}
+
+	.login:hover{
+		background-color: #e4e4e4;
+		border-radius: 5px;
 	}
 	
 	.tabula{
 	 
 	border-width: 1px; 
-	border-collapse: collapse; 
-	border-color: #ffffff; 
+	border-color: #000000; 
 	background-color: transparent;
-	font-family: verdana;
-	font-size: 11px;
+	font-size: 10px;
 	}
 	
-	body{ color: #ffffff; font-size: 12px; font-family: verdana; }
+	body{ color: #000000; font-size: 12px; font-family: montserrat; }
 	
 	a, a:link, a:visited, a:active { color: #AAAAAA; text-decoration: none; font-size: 12px; }
 	a:hover { border-bottom: 1px dotted #c1c1c1; color: #AAAAAA; }
