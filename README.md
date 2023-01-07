@@ -3,7 +3,7 @@
 
 <table boder="1">
         <tr>
-            <td>Baris 1 kolom 1</td>
+            <td><img src="JJLink_2/Hasil/Login.png" /></td>
             <td>baris 1 kolom 2</td>
         </tr>
         <tr>
@@ -12,6 +12,5 @@
         </tr>
     </table>
 
-<img src="JJLink_2/Hasil/Login.png" />
 
 --------------------------------------------------------
