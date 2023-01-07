@@ -4,7 +4,7 @@
 <table boder="1">
         <tr>
             <td><img src="JJLink_2/Hasil/Login.png" /></td>
-            <td>baris 1 kolom 2</td>
+            <td><img src="JJLink_2/Hasil/Login.png" /></td>
         </tr>
         <tr>
             <td>Baris 2 kolom 1</td>
