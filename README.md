@@ -3,8 +3,8 @@
 
 <table boder="1">
     <tr>
-        <td>Desktop<br><img src="2. Hasil/JJlink/Desktop.png" /></td>
-        <td>Mobile<br><img src="2. Hasil/JJlink/Mobile.png" /></td>
+        <td>Desktop<br><img src="2. Hasil/JJLink/Desktop.png" /></td>
+        <td>Mobile<br><img src="2. Hasil/JJLink/Mobile.png" /></td>
     </tr>
 </table>
 
