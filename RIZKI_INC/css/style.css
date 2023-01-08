@@ -9,7 +9,7 @@ body {
   background-position: center center;
   background-repeat:  no-repeat;
   background-attachment: fixed;
-  background: #B8E8FC;  /* fallback for old browsers */
+  background: #dcdcdc;  /* fallback for old browsers */
   /* background: -webkit-linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF);  Chrome 10-25, Safari 5.1-6 */
   /* background: linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
@@ -145,7 +145,7 @@ iframe  {
   background-image: linear-gradient(to right, #fcfcfc 0%, #B8E8FC 100%);
   border: 1px solid #b7c7cc;
   border-radius:20px;
-  color: #f2f2f2;
+  color: #464646;
   font-weight: bold;
   text-align: center;
   vertical-align: middle;
@@ -207,7 +207,7 @@ iframe  {
 .table2 {
   width: 100%;
   border-collapse: collapse !important;
-  background-color: rgb(0, 0, 0);
+  background-color: #ffffff;
   text-align:left;
 }
 .table2 td,
